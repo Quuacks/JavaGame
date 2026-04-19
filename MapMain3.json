@@ -1,0 +1,664 @@
+{
+"tileData": [
+	{
+		"posX": 5,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 5,
+		"posY": 1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 10,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -14,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -14,
+		"posY": 0,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -14,
+		"posY": 1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -9,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -4,
+		"posY": -6,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -4,
+		"posY": -5,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -4,
+		"posY": -4,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -4,
+		"posY": -3,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -9,
+		"posY": 6,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 1,
+		"posY": -2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 1,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 1,
+		"posY": 5,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 6,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 1,
+		"posY": 9,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 6,
+		"posY": 3,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 11,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -13,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -13,
+		"posY": 0,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -13,
+		"posY": 1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -8,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -3,
+		"posY": -6,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -3,
+		"posY": -5,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -3,
+		"posY": -4,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -3,
+		"posY": -3,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -8,
+		"posY": 6,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -3,
+		"posY": -2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -3,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 2,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 2,
+		"posY": 5,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 7,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 2,
+		"posY": 9,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 7,
+		"posY": 3,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 12,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 7,
+		"posY": 9,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -17,
+		"posY": 2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 3,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 4,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 5,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 6,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 7,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -12,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -17,
+		"posY": 8,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 9,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 10,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 11,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -7,
+		"posY": -6,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 12,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -7,
+		"posY": -5,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -17,
+		"posY": 13,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -7,
+		"posY": -4,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -12,
+		"posY": 5,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -17,
+		"posY": 14,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -7,
+		"posY": -3,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -7,
+		"posY": -2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -7,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -7,
+		"posY": 6,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -2,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -2,
+		"posY": 7,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 3,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 3,
+		"posY": 5,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 8,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 13,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 8,
+		"posY": 9,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -16,
+		"posY": 1,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -16,
+		"posY": 2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -16,
+		"posY": 3,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -11,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -6,
+		"posY": -6,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -6,
+		"posY": -5,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -11,
+		"posY": 5,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -1,
+		"posY": -2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -1,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": -1,
+		"posY": 7,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 4,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 4,
+		"posY": 1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 9,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 14,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 9,
+		"posY": 9,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 14,
+		"posY": 0,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -15,
+		"posY": 1,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 1,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -15,
+		"posY": 2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -15,
+		"posY": 3,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 14,
+		"posY": 3,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 4,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 5,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 6,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 7,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -10,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 14,
+		"posY": 8,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 9,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 10,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 11,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -5,
+		"posY": -6,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 12,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": -5,
+		"posY": -5,
+		"hasCollision": false,
+		"tileID": 19
+	},
+	{
+		"posX": 14,
+		"posY": 13,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 14,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 15,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 16,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 14,
+		"posY": 17,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 0,
+		"posY": -2,
+		"hasCollision": false,
+		"tileID": 18
+	},
+	{
+		"posX": 0,
+		"posY": -1,
+		"hasCollision": false,
+		"tileID": 19
+	}
+],
+"coinData": [
+	{
+		"posX": -8,
+		"posY": 8
+	},
+	{
+		"posX": 2,
+		"posY": 7
+	},
+	{
+		"posX": 8,
+		"posY": 10
+	},
+	{
+		"posX": -9,
+		"posY": 1
+	}
+]
+}

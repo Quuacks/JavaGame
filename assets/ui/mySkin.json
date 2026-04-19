@@ -1,0 +1,29 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	Tile2: {
+		name: Tile
+		color: {
+			r: 0.36078432
+			g: 0.36078432
+			b: 0.36078432
+			a: 1
+		}
+	}
+	Tile3: {
+		name: Tile
+		color: {
+			r: 0.6666667
+			g: 0.9137255
+			b: 0.99607843
+			a: 1
+		}
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: Tile
+		down: Tile2
+		over: Tile3
+	}
+}
+}

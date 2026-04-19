@@ -1,0 +1,13 @@
+
+mySkin.png
+size: 32, 32
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Tile
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
